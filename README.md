@@ -2,10 +2,7 @@
 
 ### Desenvolvedora de Software | Java, C++ & Mobile
 
-Sou formada como **Técnica em Informática pelo CEFET-MG** , com uma base sólida em algoritmos, estruturas de dados e arquitetura de software. Atualmente, busco minha primeira oportunidade como **Estagiária em Desenvolvimento de Software** para aplicar meu raciocínio lógico em desafios reais.
-
-📍 Resido em **Betim/MG** e estou disponível para oportunidades presenciais na região (BH, Contagem, Betim) ou remotas.
-
+Sou formada como **Técnica em Informática pelo CEFET-MG** , com uma base sólida em algoritmos, estruturas de dados e arquitetura de software. Atualmente, busco minha primeira oportunidade como **Estagiária em Desenvolvimento de Software**.
 ---
 
 ## 🚀 Sobre Mim
@@ -13,7 +10,7 @@ Sou formada como **Técnica em Informática pelo CEFET-MG** , com uma base sóli
 - 💻 **Foco Técnico:** Especialista em **Java (Avançado)** e **C++**, com foco em Back-end e Mobile.
 - 🏗️ **Arquitetura:** Experiência com padrões de projeto como **MVC, DAO, Singleton, Proxy e Factory Method**.
 - 📱 **Projetos:** Desenvolvi um **Aplicativo Gamificado em meu TCC** em React Native com integração API REST e MySQL.
-
+📍 Resido em **Betim/MG** e estou disponível para oportunidades presenciais na região (BH, Contagem, Betim) ou remotas.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
